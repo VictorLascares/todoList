@@ -27,7 +27,7 @@ const Form = props => {
                 value={value}
             />
             <button 
-                className="button is-info is-outlined"
+                className="button is-info"
             >
                 Agregar
             </button>
